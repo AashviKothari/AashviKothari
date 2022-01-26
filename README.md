@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **aashvikothari78@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny and Superr Lazy!!**
+- ⚡ Fun fact **I think I am Funny and Superr Lazy!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
