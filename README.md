@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashvikothari&label=Profile%20views&color=0e75b6&style=flat" alt="aashvikothari" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 💬 Ask me about **Data Structures,Algorithm,Web-Development**
 
