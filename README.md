@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aashvi Kothari</h1>
+<h1 align="center">Hi 👋, I'm Aashvi Kothari!</h1>
 <h3 align="center">A Full Stack Web Developer in the Making who loves to evolve new Technology and inspire others!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashvikothari&label=Profile%20views&color=0e75b6&style=flat" alt="aashvikothari" /> </p>
