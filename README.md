@@ -43,14 +43,9 @@
 ![Aashvi Kothari's github activity graph](https://activity-graph.herokuapp.com/graph?username=AashviKothari&theme=redical)
 
 ## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
   <p align="left">
-<a href="https://linkedin.com/in/aashvi kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashvi kothari" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/aashvi-kothari-119a93219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashvi kothari" height="30" width="40" /></a>
 <a href="https://instagram.com/_.aashvi_.78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.aashvi_.78" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aashvikothari78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashvikothari78" height="30" width="40" /></a>
 </p>
