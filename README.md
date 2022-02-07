@@ -42,7 +42,7 @@
 
 ![Aashvi Kothari's github activity graph](https://activity-graph.herokuapp.com/graph?username=AashviKothari&theme=redical)
 
-## Connect with me:
+## Connect with me
 
   <p align="left">
 <a href="www.linkedin.com/in/aashvi-kothari-119a93219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashvi kothari" height="30" width="40" /></a>
