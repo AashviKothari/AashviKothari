@@ -8,9 +8,9 @@
 
 ## 👩‍💻 About Me!
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development** & **App Development**
 
-- 💬 Ask me about **Data Structures,Algorithm,Web-Development**
+- 💬 Ask me about **Data Structures,Algorithm,Web-Development,App Development**
 
 - 📫 How to reach me **aashvikothari78@gmail.com**
 
