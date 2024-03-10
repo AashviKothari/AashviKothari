@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data Structures,Algorithm,Web-Development,App Development**
 
-- 📫 How to reach me **aashvikothari78@gmail.com**
+- 📫 How to reach me **aashvikothari26@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny and Superr Lazy!**
 
